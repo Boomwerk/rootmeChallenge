@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE rss [
     <!ELEMENT boom ANY>
-    <!ENTITY atk SYSTEM "/etc/passwd">
 ]>
 <rss version="1.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
@@ -10,7 +9,7 @@
         <description>Free web building tutorials</description>
         <lastBuildDate>Mon, 03 Feb  2014 00:00:00 -0000</lastBuildDate>
         <item>
-            <title>&atk;</title>
+            <title>RSS Tutorial</title>
             <link>https://www.w3schools.com/xml/xml_rss.asp</link>
             <description>New RSS tutorial on W3Schools</description>
         </item>
